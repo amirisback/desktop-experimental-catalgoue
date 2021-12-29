@@ -32,7 +32,7 @@ Desktop Experimental Catalogue
     </tr>
     <tr>
     <td>5.</td>
-    <td>coroutines-plyaground</td>
-    <td><a href="https://github.com/amirisback/coroutines-plyaground">Click Here</a></td>
+    <td>coroutines-playground</td>
+    <td><a href="https://github.com/amirisback/coroutines-playground">Click Here</a></td>
   </tr>
 </table>

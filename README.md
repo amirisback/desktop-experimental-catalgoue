@@ -3,7 +3,7 @@ Desktop Experimental Catalogue
 
 
 <p>
-<img width="90px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-chick.gif">
+<img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-chick.gif">
 <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-chick.gif">
 </p>
 

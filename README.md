@@ -17,8 +17,8 @@ Desktop Experimental Catalogue
   </tr>
   <tr>
     <td>1.</td>
-    <td>jetpack-compose-kmm-ui</td>
-    <td><a href="https://github.com/amirisback/jetpack-compose-kmm-ui-experimental">Click Here</a></td>
+    <td>kmm-compose</td>
+    <td><a href="https://github.com/amirisback/kmm-compose">Click Here</a></td>
   </tr>
     <tr>
     <td>2.</td>
@@ -27,17 +27,12 @@ Desktop Experimental Catalogue
   </tr>
     <tr>
     <td>3.</td>
-    <td>desktop-compose-retrofit-rxjava</td>
-    <td><a href="https://github.com/amirisback/desktop-compose-retrofit-rxjava">Click Here</a></td>
-  </tr>
-    <tr>
-    <td>4.</td>
     <td>easy-kotlin-lib-jar</td>
     <td><a href="https://github.com/amirisback/easy-kotlin-lib-jar">Click Here</a></td>
   </tr>
     </tr>
     <tr>
-    <td>5.</td>
+    <td>4.</td>
     <td>coroutines-playground</td>
     <td><a href="https://github.com/amirisback/coroutines-playground">Click Here</a></td>
   </tr>

@@ -23,17 +23,17 @@ Desktop Experimental Catalogue
     <tr>
     <td>2.</td>
     <td>desktop-compose-retrofit</td>
-    <td><a href="https://github.com/amirisback/simple-desktop-compose-retrofit">Click Here</a></td>
+    <td><a href="https://github.com/amirisback/desktop-compose-retrofit">Click Here</a></td>
   </tr>
     <tr>
     <td>3.</td>
     <td>desktop-compose-retrofit-rxjava</td>
-    <td><a href="https://github.com/amirisback/simple-desktop-compose-retrofit-rxjava">Click Here</a></td>
+    <td><a href="https://github.com/amirisback/desktop-compose-retrofit-rxjava">Click Here</a></td>
   </tr>
     <tr>
     <td>4.</td>
-    <td>easy-kotlin-library</td>
-    <td><a href="https://github.com/amirisback/sample-kotlin-library">Click Here</a></td>
+    <td>easy-kotlin-lib-jar</td>
+    <td><a href="https://github.com/amirisback/easy-kotlin-lib-jar">Click Here</a></td>
   </tr>
     </tr>
     <tr>
